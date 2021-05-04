@@ -5,7 +5,7 @@ $('#sortable-list').sortable({
 	// See: (https://github.com/SortableJS/Sortable#options)
 
 	handle: '.handle',
-	invertSwap: true,
+	// invertSwap: true,
     animation: 100
 	// . . .
 })
