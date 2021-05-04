@@ -1,0 +1,22 @@
+.reorder-img {
+    width: 80px;
+    height: 80px;
+}
+
+.handle {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    padding: 0px;
+    text-align: center;
+}
+
+.handle i {
+    font-size: 24px;
+}
+
+/* .card-text {
+    text-overflow: hidden;
+    height: 80px;
+} */
